@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RentalItem
+comment1.params=title\ pricePerDay\ rentalDays\ movieButton
+comment1.target=RentalItem(java.lang.String,\ double,\ int,\ javax.swing.JButton)
+comment2.params=
+comment2.target=javax.swing.JButton\ getMovieButton()
+comment3.params=movieButton
+comment3.target=void\ setMovieButton(javax.swing.JButton)
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=double\ getPricePerDay()
+comment6.params=
+comment6.target=int\ getRentalDays()
+numComments=7

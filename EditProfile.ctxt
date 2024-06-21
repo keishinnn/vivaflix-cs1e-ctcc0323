@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=EditProfile
+comment1.params=users\ rentalItems
+comment1.target=EditProfile(java.util.ArrayList,\ java.util.ArrayList)
+comment10.params=e
+comment10.target=void\ componentResized(java.awt.event.ComponentEvent)
+comment11.params=button
+comment11.target=void\ styleButton(javax.swing.JButton)
+comment2.params=
+comment2.target=void\ Components()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=void\ BackgroundImage()
+comment9.params=g
+comment9.target=void\ paintComponent(java.awt.Graphics)
+numComments=12
