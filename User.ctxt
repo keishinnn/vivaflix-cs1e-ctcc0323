@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=email\ password
+comment1.target=User(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEmail()
+comment3.params=email
+comment3.target=void\ setEmail(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPassword()
+comment5.params=password
+comment5.target=void\ setPassword(java.lang.String)
+comment6.params=
+comment6.target=java.util.List\ getRentedItems()
+comment7.params=item
+comment7.target=void\ addRentedItem(RentalItem)
+comment8.params=item
+comment8.target=void\ removeRentedItem(RentalItem)
+numComments=9
